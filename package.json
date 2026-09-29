@@ -1,0 +1,27 @@
+{
+  "name": "master-dsa",
+  "version": "1.0.0",
+  "description": "Quickly master data structures and algorithms",
+  "keywords": [
+    "data",
+    "structure",
+    "algorithm",
+    "sorting",
+    "problems"
+  ],
+  "homepage": "https://github.com/plurafy/master-dsa#readme",
+  "bugs": {
+    "url": "https://github.com/plurafy/master-dsa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plurafy/master-dsa.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
